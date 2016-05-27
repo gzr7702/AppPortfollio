@@ -3,8 +3,8 @@
     <string name="title">6 Amazing Apps</string>
     <string name="movie_guide_button_label">MovieGuide</string>
     <string name="stock_hawk_button_label">Stock Hawk</string>
-    <string name="bigger_app_button_label">Bigger App</string>
-    <string name="material_app_button_label">Material App</string>
-    <string name="ubiquitous_app_button_label">Ubiquitous App</string>
+    <string name="bigger_app_button_label">Bigger</string>
+    <string name="material_app_button_label">Material</string>
+    <string name="ubiquitous_app_button_label">Ubiquitous</string>
     <string name="capstone_app_button_label">Capstone</string>
 </resources>
