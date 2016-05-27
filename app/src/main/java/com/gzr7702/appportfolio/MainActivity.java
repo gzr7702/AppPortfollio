@@ -14,9 +14,14 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    /*
+    * Function that will create a toast based on
+    * the tag of the button
+     */
     public void createToast(View v) {
         String viewID = v.getTag().toString();
-        Toast.makeText(this, viewID, Toast.LENGTH_LONG).show();
+        String text = "This button will launch my " + viewID + " app!";
+        Toast.makeText(this, text, Toast.LENGTH_LONG).show();
     }
 
 }
