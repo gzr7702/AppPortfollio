@@ -9,7 +9,7 @@ Android Minimum SDK version: 15
 Android Target SDK: 23
 
 ##Installation
-git clone https://github.com/gzr7702/MovieGuide.git
+git clone https://github.com/gzr7702/AppPortfollio.git
 
 Open in AndroidStudio and run. For details on this, see:
 
